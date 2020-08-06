@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: OrderService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: biswa
+Implementation-Vendor-Id: com.order.service
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/OrderService
+Created-By: Maven Integration for Eclipse
+
